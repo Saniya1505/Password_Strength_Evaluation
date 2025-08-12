@@ -1,6 +1,4 @@
-# Password_Strength_Evaluation
-
-# Password Security Analysis Report
+# Password Strength Analysis Report
 
 A comprehensive study examining password complexity, security measures, and best practices for creating strong passwords.
 
