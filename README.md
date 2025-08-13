@@ -1,5 +1,4 @@
 # Password_Strength_Analysis_Report
-
 A comprehensive study examining password complexity, security measures, and best practices for creating strong passwords.
 
 ## 📋 Project Overview
